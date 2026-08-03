@@ -6,7 +6,6 @@ An interactive **Power BI dashboard** developed to analyze Uber booking data and
 
 ## 📸 Dashboard Preview
 
-> Add your dashboard screenshot below.
 
 <img width="971" height="551" alt="Screenshot" src="https://github.com/user-attachments/assets/80b8827f-cca0-44da-be21-36564975a002" />
 
